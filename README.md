@@ -54,7 +54,7 @@ Write Python code to calculate the following:
    * Create a new repository with a suitable name (e.g., "python_lab1").
 2. **Configure Git in PyCharm:**
    * Open the "Git" menu in PyCharm and initialize a Git repository for your project.
-   * Add your GitHub remote repository by going to "Git" -> "Remotes".
+   * Add your GitHub remote repository by going to "Git" -> "Manage Remotes".
 3. **Commit Changes:**
    * Stage all changes in your PyCharm project.
    * Commit the changes with a descriptive message (e.g., "Initial commit").
