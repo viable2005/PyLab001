@@ -46,7 +46,7 @@ Write Python code to calculate the following:
 1. Create variables to store your age, height (in feet), and weight (in pounds).
 2. Print the data type of each variable using the `type()` function.
 3. Calculate your Body Mass Index (BMI) using the formula: $$\text{BMI} = {\frac{\text{weight(lbs)}}{\text{height(inches)}^2}*703}$$.
-   a. Careful, pay attention to height in inches!
+    * Careful, pay attention to height in inches!
 5. Print your BMI.
 
 #### Part 3: Pushing to GitHub
